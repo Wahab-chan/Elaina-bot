@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  Aldi Lesmana🔭
-// Ditulis Ulang Oleh ZYKO-MD
+// Ditulis Ulang Oleh ZIRO-MD
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -10,8 +10,8 @@
 
 //[!] Jangan Lupa Ganti Ownernya
 
-// • FIX-BOT-NEXBOTZ-V5 BUY HARGA 25K 
-// • CHAT GW wa.me/6281226416919
+// • FIX-BOT-ZIROBOTZ-V5 BUY HARGA 25K 
+// • CHAT GW wa.me/6281228070013
 
 
 
@@ -42,7 +42,7 @@ const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'
-global.tautanwa = 'https://wa.me/message/3O2UYD4AUSYWD1'
+global.tautanwa = 'https://wa.me/6282229217681'
 global.sgh = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //github
 global.sgc = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //group whatsapp
 global.sdc = '-' //discord
@@ -50,31 +50,31 @@ global.linkyt = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'
 global.syt = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'
 global.sfb = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' // facebook
 global.snh = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'
-global.media = 'https://telegra.ph/file/4c41e3fa6c1e02a8d1e87.jpg'
-global.wame = 'https://wa.me/message/3O2UYD4AUSYWD1'
+global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.wame = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
 ['6282229217681', '1nory and Wahab', true],
-['6282229217681', '1nory and Wahab', true]
+['6282239084877', 'gideon saleda', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '18504178231' //pasang no bot lo 
+global.nomorbot = '6285341725791' //pasang no bot lo 
 global.nomorown = '6282229217681' //pasang no own lo
 global.nomorown1 = '6282229217681'
 global.nomorown2 = '6282229217681'
 global.nomorwa = '0'
 global.nameown = '1nory and Wahab'
-global.gcname = 'Ela1naBotz'
+global.gcname = 'Ela1na 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 1nory and Wahab'
 global.namabot = 'Ela1na-𝗠𝗗'
 global.namebot = 'Ela1na-𝗠𝗗'
-global.packname2 = '1nory and Wahab'
+global.packname2 = 'Ela1na-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.nameown1= '1nory and Wahab'
-global.nameown2 = '1nory and Wahab'
+global.nameown2 = 'Ela1na-𝑀𝐷'
 
 /*============== STAFF ==============*/
 //kosong
@@ -82,15 +82,15 @@ global.nameown2 = '1nory and Wahab'
 
 global.readMore = readMore
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 1nory and Wahab'
-global.wm2 = '1nory and Wahab '
+global.wm2 = 'Ela1na-𝑀𝐷 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `1nory and Wahab`
+global.titlebot = `Ela1na-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '1nory and Wahab'
-global.stickauth = `© 1nory and Wahab`
+global.stickpack = 'Ela1na-𝑀𝐷'
+global.stickauth = `© Ela1na-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -106,22 +106,22 @@ global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://sociabuzz.com/feliciafebby'
+global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.pdana = '082229217681' //pasang no lo sinih buat donasi 
-global.povo = '082229217681' 
-global.pgopay = '082229217681'
+global.povo = '08XXXXXXXXXX' 
+global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082229217681'
-global.ppulsa2 = '082229217681'
-global.psaweria = '-'
-global.donasikabul = '082229217681',
+global.ppulsa = '08XXXXXXXXXX'
+global.ppulsa2 = '08XXXXXXXXXX'
+global.psaweria = 'https://saweria.co/hyuura'
+global.donasikabul = 'Jasa Sewa Ela1nq-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = '├ 5 Hari IDR 5.000\n├ 7 Hari IDR 7.000\n├ 15+5 Hari IDR 15.000\n├ 30 Hari IDR 30.000'
+global.ListHargaSewa = '├ 5 Hari IDR 5.000\n├ 7 Hari IDR 7.000\n├ 15+5 Hari IDR 20.000\n├ 30 Hari IDR 30.000'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -346,10 +346,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
-global.dtu = 'Grup Me'
+global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281226416919'
+global.phn = '6282229217681'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
